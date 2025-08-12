@@ -1,0 +1,2 @@
+Label Mapping: 
+{'Other': array([1, 0, 0, 0, 0, 0]), 'Shower': array([0, 1, 0, 0, 0, 0]), 'Tooth_brushing': array([0, 0, 1, 0, 0, 0]), 'Vacuum_Cleaner': array([0, 0, 0, 1, 0, 0]), 'Washing_hands': array([0, 0, 0, 0, 1, 0]), 'Wiping': array([0, 0, 0, 0, 0, 1])}
