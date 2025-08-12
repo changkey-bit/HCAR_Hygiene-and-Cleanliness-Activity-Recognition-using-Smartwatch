@@ -1,1 +1,1 @@
-# HCAR_Hygiene-and-Cleanliness-Activity-Recognition-using-Smartwatch
+# HCAR : Hygiene and Cleanliness Activity Recognition using Smartwatch
