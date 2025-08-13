@@ -2,10 +2,8 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> 
-Demo Video 
+## <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> Demo Video 
 [![HCAR Demo Video](https://img.youtube.com/vi/3KFxsJ4kiP0/0.jpg)](https://youtu.be/3KFxsJ4kiP0)
-
 
 ## ⏱️ Hygiene and Cleanliness Activities
 <img src="https://github.com/user-attachments/assets/6ca6c93e-4964-4aaf-bf86-a4cc0154c2f3">
