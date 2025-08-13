@@ -2,7 +2,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> Demo Video 
+[![Watch on YouTube](https://img.shields.io/badge/▶%20Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/3KFxsJ4kiP0)
 [![HCAR Demo Video](https://img.youtube.com/vi/3KFxsJ4kiP0/0.jpg)](https://youtu.be/3KFxsJ4kiP0)
 
 ---
