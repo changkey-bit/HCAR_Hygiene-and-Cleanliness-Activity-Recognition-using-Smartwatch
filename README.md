@@ -3,26 +3,24 @@
 ---
 
 ## ⏱️ Hygiene and Cleanliness Activities
-<img src="https://github.com/user-attachments/assets/4e5183ff-9adc-47d1-8bbb-0cc76b12e063">
+<img src="https://github.com/user-attachments/assets/6ca6c93e-4964-4aaf-bf86-a4cc0154c2f3">
 
 ## ⏱️ Results
-<img src="https://github.com/user-attachments/assets/d868ee52-ac90-47c6-9032-0d044d64752e">
-<img src="https://github.com/user-attachments/assets/5e9f1d32-bba9-486c-8554-dc000a0d7e05">
+<img src="https://github.com/user-attachments/assets/b56f9fbb-e3c0-4c6e-9dd7-ae4ca248cc52">
 
 ---
 
 ## 📑 프로젝트 소개
-### 👤 실시간 이동 수단 인식 프로세스
-1. **데이터 수집**  
-   - IMU 센서 데이터를 **60Hz**로 5초간 실시간 수집  
-     *(Linear Acceleration, Gyroscope, Magnetic Field, Gravity)*
-
-2. **데이터 전처리 및 분류**  
+### 👤 On-device 실시간 위생 및 청결 행동 인식
+1. HCAR (Hygiene and Cleanliness Activity Recognition system) 개발
+   - IMU, Audio 데이터를 통한 
+   
+3. **데이터 전처리 및 분류**  
    - 수집된 IMU 데이터를 전처리 후 **Multi-input CNN 모델**에 입력  
    - **휠체어를 포함한 7가지 이동 수단 클래스**로 분류  
      *(Still, Walking, Manual Wheelchair, Power Wheelchair, Metro, Bus, Car)*  
 
-3. **결과 저장**  
+4. **결과 저장**  
    - Raw 데이터 및 예측 결과를 기기 내 로컬 스토리지에 저장
 
 ---
